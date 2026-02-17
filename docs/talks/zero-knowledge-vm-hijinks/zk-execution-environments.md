@@ -19,4 +19,4 @@ Presented at ETH Portland 2023, this talk introduced the concept of Zero Knowled
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1u5b-CYbPnsHlXgvNTQubG8Yf8pEAgighpKoEHDn9hyg/edit){ target=_blank }
+[View Slides](https://docs.google.com/presentation/d/1u5b-CYbPnsHlXgvNTQubG8Yf8pEAgighpKoEHDn9hyg/edit){ target=_blank rel="noopener" }

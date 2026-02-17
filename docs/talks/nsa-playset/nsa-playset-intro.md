@@ -22,4 +22,4 @@ The talk provided unprecedented insight into the capabilities of the NSA based o
 
 ## Resources
 
-[Watch on YouTube](https://www.youtube.com/watch?v=q-9SMCehrnw){ target=_blank }
+[Watch on YouTube](https://www.youtube.com/watch?v=q-9SMCehrnw){ target=_blank rel="noopener" }

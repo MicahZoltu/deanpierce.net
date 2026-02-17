@@ -31,7 +31,7 @@ This document exists to brief any automations, agents, or contributors interacti
 
 ## Known Conventions & Pitfalls
 
-- GitBook-specific Liquid tags like `{% embed %}` are no longer supported. They were replaced with standard Markdown links (`[View resource](URL){ target=_blank }`). Avoid reintroducing Liquid tags.
+- GitBook-specific Liquid tags like `{% embed %}` are no longer supported. They were replaced with standard Markdown links (`[View resource](URL){ target=_blank rel="noopener" }`). Avoid reintroducing Liquid tags.
 - Material's `palette` in `mkdocs.yml` is configured to default to dark mode (`scheme: slate`) with a toggle back to light mode. Preserve this behavior when editing theme options.
 - Use Material's native `navigation.expand` feature (enabled in `mkdocs.yml`) to keep the left-hand tree fully expanded—custom JavaScript is no longer required. If updating Material, reconfirm that this feature still performs as expected.
 - The site relies on the persistent left sidebar (like titor.tech). Keep `navigation.tabs` **disabled** in `mkdocs.yml`; reintroducing it forces primary navigation into top tabs and hides the tree.

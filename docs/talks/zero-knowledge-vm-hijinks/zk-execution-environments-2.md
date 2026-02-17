@@ -19,4 +19,4 @@ Presented at BSides Portland 2023, this iteration focused more on security and p
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1HqDhHnnVW2bXSOJ88e9hHCtCYDonkvGivtz53xfkfDo/edit){ target=_blank }
+[View Slides](https://docs.google.com/presentation/d/1HqDhHnnVW2bXSOJ88e9hHCtCYDonkvGivtz53xfkfDo/edit){ target=_blank rel="noopener" }

@@ -19,4 +19,4 @@ Presented at Hushcon Seattle 2023, this talk focused on security and privacy imp
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1VnrdIbo-lE91Dfr2PVkQfHGQzRFrk1arAIzUMhlKHI8/edit#slide=id.p){ target=_blank }
+[View Slides](https://docs.google.com/presentation/d/1VnrdIbo-lE91Dfr2PVkQfHGQzRFrk1arAIzUMhlKHI8/edit#slide=id.p){ target=_blank rel="noopener" }

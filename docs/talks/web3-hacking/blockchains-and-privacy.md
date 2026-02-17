@@ -12,4 +12,4 @@ Given to an audience of future legal professionals, this presentation explored t
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/1FP2bvI4qM2Zgt46OOOmHisAk9tXjkqtO/edit#slide=id.p1){ target=_blank }
+[View Slides](https://docs.google.com/presentation/d/1FP2bvI4qM2Zgt46OOOmHisAk9tXjkqtO/edit#slide=id.p1){ target=_blank rel="noopener" }

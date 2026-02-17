@@ -10,7 +10,7 @@ The silk road thing was actually super relevant because I had an awesome demo wh
 
 My tool would basically look for an unencrypted HTTP request, intercept it, and then deliver the stage 1 payload which would inject a hidden iframe into the target page.
 
-The hidden iframe would then make several more hidden iframes&#x20;
+The hidden iframe would then make several more hidden iframes targeting various login pages.
 
 This was very effective for Facebook, Amazon, eBay, Slashdot, Reddit, mail.ru, and basically every onion site. As long as the browser had ever seen the login form delivered over a non-HTTPS page, even if it was disabled years ago (like the case of Facebook) the passwords would then get autofilled into the hidden iframe, scraped out with javascript, and delivered to my password collector.
 

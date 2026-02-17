@@ -12,4 +12,4 @@ Delivered to an audience of enterprise security professionals and policy makers,
 
 ## Resources
 
-[View Slides](https://docs.google.com/presentation/d/192s3twit5uZ3OCAYAYYqDhupdPZusyev0fINwj1vtHE/edit){ target=_blank }
+[View Slides](https://docs.google.com/presentation/d/192s3twit5uZ3OCAYAYYqDhupdPZusyev0fINwj1vtHE/edit){ target=_blank rel="noopener" }

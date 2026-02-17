@@ -14,5 +14,5 @@ Returning to BSides Portland 2025, I shared the Portland Hacker Foundation's fir
 
 ## Resources
 
-- [View Slides](https://gamma.app/docs/Portland-Hacker-Foundation-jno0rsrcnki80rl){ target=_blank }
+- [View Slides](https://gamma.app/docs/Portland-Hacker-Foundation-jno0rsrcnki80rl){ target=_blank rel="noopener" }
 - Annual report draft: _coming soon_

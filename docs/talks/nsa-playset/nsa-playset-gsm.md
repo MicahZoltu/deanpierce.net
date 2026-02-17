@@ -20,7 +20,7 @@ This presentation gained significant media attention and was featured on the Vic
 
 ## Resources
 
-- [Watch on YouTube](https://www.youtube.com/watch?v=wzyuioto4y8){ target=_blank }
-- [View Slides (PDF)](https://defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf){ target=_blank }
+- [Watch on YouTube](https://www.youtube.com/watch?v=wzyuioto4y8){ target=_blank rel="noopener" }
+- [View Slides (PDF)](https://defcon.org/images/defcon-22/dc-22-presentations/Pierce-Loki/DEFCON-22-Pierce-Loki-NSA-PLAYSET-GSM.pdf){ target=_blank rel="noopener" }
 
 

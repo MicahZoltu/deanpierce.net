@@ -19,7 +19,7 @@ The project demonstrated an encoding/decoding scheme that disguised C2 commands 
 
 ## Resources
 
-- [Related Video](https://www.youtube.com/watch?v=qrTjdpF_5pk){ target=_blank }
+- [Related Video](https://www.youtube.com/watch?v=qrTjdpF_5pk){ target=_blank rel="noopener" }
 - Code: Archives to be recovered
 
 _Note: This talk was not recorded, but demonstrates early innovation in social media exploitation techniques._

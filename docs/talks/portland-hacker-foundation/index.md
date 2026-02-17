@@ -2,7 +2,7 @@
 
 The Portland Hacker Foundation (PDXHF) is a 501(c)(3) nonprofit organization dedicated to empowering the hacker community in Portland, Oregon. The foundation collects tax-deductible donations and distributes them as grants to people or groups building impactful projects, with a strong emphasis on information security and related fields that embody the hacker ethos.
 
-[Website: PDXHF.ORG](https://pdxhf.org){ target=_blank }
+[Website: PDXHF.ORG](https://pdxhf.org){ target=_blank rel="noopener" }
 
 ## Mission
 
@@ -14,9 +14,9 @@ PDXHF thrives within Portland's vibrant hacker scene, centered around PDX Hacker
 
 ## Get Involved
 
-- [Join the Signal Chat](https://signal.group/#CjQKICe1IhiChi74GgLGJql1-YcUndkMvRtniTkAygWVlaSWEhAXFtsQRFJPPxtXyodsPbou){ target=_blank }
-- [Apply for a Grant](https://docs.google.com/forms/d/e/1FAIpQLSfaRK_Q_D808wyhj5cFVxF1wO9nUbItCgGJQuCJyHfUzVUVjw/viewform){ target=_blank }
-- [Become a Sponsor](https://www.paypal.com/donate/?hosted_button_id=GP42Y6XNS8ZTA){ target=_blank }
+- [Join the Signal Chat](https://signal.group/#CjQKICe1IhiChi74GgLGJql1-YcUndkMvRtniTkAygWVlaSWEhAXFtsQRFJPPxtXyodsPbou){ target=_blank rel="noopener" }
+- [Apply for a Grant](https://docs.google.com/forms/d/e/1FAIpQLSfaRK_Q_D808wyhj5cFVxF1wO9nUbItCgGJQuCJyHfUzVUVjw/viewform){ target=_blank rel="noopener" }
+- [Become a Sponsor](https://www.paypal.com/donate/?hosted_button_id=GP42Y6XNS8ZTA){ target=_blank rel="noopener" }
 
 ---
 
